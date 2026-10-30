@@ -1,0 +1,9 @@
+[project]
+name = "auto-typer"
+version = "0.1.0"
+description = "A simple library for automating keyboard input in Python."
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "python-uinput>=1.0.1",
+]
